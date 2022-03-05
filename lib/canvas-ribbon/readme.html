@@ -1,0 +1,18 @@
+<h1 id="canvas-ribbon-js"><a href="#canvas-ribbon-js" class="headerlink" title="canvas-ribbon.js"></a>canvas-ribbon.js</h1><blockquote>
+<p>重写了Vue作者博客中的canvas背景彩带，简单一条命令为你的网站加上canvas-ribbon背景动画。</p>
+<p>鼠标每次点击，随机生成彩带背景。</p>
+</blockquote>
+<h2 id="1-使用"><a href="#1-使用" class="headerlink" title="1. 使用"></a>1. 使用</h2><p>在页面中插入以下语句。</p>
+<pre><code class="html">&lt;script id=&quot;ribbon&quot; src=&quot;js/canvas-ribbon.js&quot;&gt;&lt;/script&gt;
+</code></pre>
+<p><strong>注意</strong>此处要为script标签设置 <code>id=&quot;ribbon&quot;</code> 。插入位置任意，推荐插入到 <code>&lt;/body&gt;</code> 标签上面。</p>
+<h2 id="2-配置"><a href="#2-配置" class="headerlink" title="2. 配置"></a>2. 配置</h2><p>可自定义背景彩带的宽度、透明度和z-index属性</p>
+<ul>
+<li><strong><code>size</code></strong>: 彩带宽度, 默认: <strong><code>90</code></strong>.</li>
+<li><strong><code>alpha</code></strong>: 彩带透明度, 默认: <strong><code>0.6</code></strong>.</li>
+<li><strong><code>zIndex</code></strong>: 彩带html标签的z-index属性, 默认: <strong><code>-1</code></strong>.</li>
+</ul>
+<p>例:</p>
+<pre><code class="html">&lt;script id=&quot;ribbon&quot; size=&quot;150&quot; alpha=&#39;0.3&#39; zIndex=&quot;-2&quot; src=&quot;js/canvas-ribbon.js&quot;&gt;&lt;/script&gt;
+</code></pre>
+<p><strong>不设置</strong>时为默认属性。</p>
