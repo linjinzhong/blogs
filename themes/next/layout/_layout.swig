@@ -59,3 +59,6 @@
   {%- endif %}
 </body>
 </html>
+
+<script type="text/javascript" src="/js/clicklove.js"></script>
+
