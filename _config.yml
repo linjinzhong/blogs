@@ -105,3 +105,4 @@ deploy:
   type: git
   repository: git@github.com:linjinzhong/blogs.git
   branch: main
+ 
