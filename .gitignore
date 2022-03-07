@@ -1,0 +1,4 @@
+db.json
+public/
+*.log
+.deploy_git
