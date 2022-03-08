@@ -1,7 +1,7 @@
 /*样式一*/
 (function($){
 	$.fn.snow = function(options){
-	var $flake = $('<div id="snowbox" />').css({'position': 'absolute','z-index':'9999', 'top': '-50px'}).html('&#10052;'),
+	var $flake = $('<div id="snowbox" />').css({'position': 'absolute','z-index':'9999', 'top': '-50px'}).html('&#165;'), /* 雪花: &#10052 货币: &#165 */
 	documentHeight 	= $(document).height(),
 	documentWidth	= $(document).width(),
 	defaults = {
