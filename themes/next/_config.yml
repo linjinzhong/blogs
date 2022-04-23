@@ -1006,6 +1006,6 @@ images: images
 passage_end_tag:
   enabled: true
 
-# 雪花特效2
+# 金币特效
 snow: 
- enabled: true
+ enabled: false
