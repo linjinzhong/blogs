@@ -8,7 +8,7 @@
       <link href="/2022/04/23/docker/"/>
       <url>/2022/04/23/docker/</url>
       
-        <content type="html"><![CDATA[<p>摘要</p><span id="more"></span><h1 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h1><p>这里是内容</p>]]></content>
+        <content type="html"><![CDATA[<p>Docker是什么？<br>Docker 是一个虚拟环境容器，可以将你的开发环境、代码、配置文件等一并打包，并发布和应用到任意平台上。</p><span id="more"></span><h1 id="内容"><a href="#内容" class="headerlink" title="内容"></a>内容</h1><p>这里是内容</p>]]></content>
       
       
       <categories>
