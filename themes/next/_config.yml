@@ -1006,6 +1006,3 @@ images: images
 passage_end_tag:
   enabled: true
 
-# 金币特效
-snow: 
- enabled: false
