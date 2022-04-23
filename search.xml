@@ -54,6 +54,31 @@
     
     
     <entry>
+      <title>sublime</title>
+      <link href="/2022/04/03/sublime/"/>
+      <url>/2022/04/03/sublime/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Sublime是什么？"><a href="#Sublime是什么？" class="headerlink" title="Sublime是什么？"></a>Sublime是什么？</h1><p>Sublime Text 是一款流行的代码编辑器软件，也是HTML和散文先进的文本编辑器，可运行在Linux，Windows和Mac OS X。也是许多程序员喜欢使用的一款文本编辑器软件。<br><a href="https://www.sublimetext.com/">sublime英文官网</a><br><a href="https://www.sublimetextcn.com/">sublime中文官网</a></p><span id="more"></span><h1 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h1><h2 id="根据下载对应安装"><a href="#根据下载对应安装" class="headerlink" title="根据下载对应安装"></a>根据<a href="https://www.sublimetext.com/docs/linux_repositories.html">下载</a>对应安装</h2><pre><code>![官方下载](sublime_download.png)</code></pre><h2 id="windows-安装"><a href="#windows-安装" class="headerlink" title="windows 安装"></a>windows 安装</h2><pre><code>下载可执行文件直接安装： https://download.sublimetext.com/sublime_text_build_4126_x64_setup.exe</code></pre><h2 id="macos-安装"><a href="#macos-安装" class="headerlink" title="macos 安装"></a>macos 安装</h2><pre><code>https://download.sublimetext.com/sublime_text_build_4126_mac.zip</code></pre><h2 id="linux-安装"><a href="#linux-安装" class="headerlink" title="linux 安装"></a>linux 安装</h2><pre><code>https://www.sublimetext.com/docs/linux_repositories.html</code></pre><p>这里是内容</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 工具 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> sublime </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>test</title>
       <link href="/2022/03/07/test/"/>
       <url>/2022/03/07/test/</url>
